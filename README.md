@@ -34,9 +34,20 @@ Each request validates:
 - ✅ Response body structure (firstname, lastname, bookingid, etc.)  
 
 ---
+## 📊 Newman Report
 
+A detailed HTML report is generated after running the collection with Newman.  
+Example summary from the latest run:
+
+- **Total Requests:** 6  
+- **Assertions:** 30  
+- **Passed:** 26  
+- **Failed:** 4  
+- **Skipped:** 0  
+- **Average Response Time:** 896ms  
 
 ---
+
 
 ## 👨‍💻 Author
 **Md Nahid Hossain**  
