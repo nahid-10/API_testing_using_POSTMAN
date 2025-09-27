@@ -35,14 +35,6 @@ Each request validates:
 
 ---
 
-## 📊 HTML Test Report
-
-A detailed HTML report (`booking-report.html`) is included in the repository.  
-
-Here’s a preview of the report:  
-
-👉 [View Full HTML Report](https://nahid-10.github.io/API_testing_using_POSTMAN/booking-report.html)
-
 
 ---
 
